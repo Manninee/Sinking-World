@@ -1,0 +1,17 @@
+tuduu:
+Manninen:
+  Kaikki muu
+
+Marttila:
+  Aloitusdialogi
+
+
+
+
+Kysymyksiä Vivianille:
+  Miten saa näkyville SonarQubeen testauksen
+
+
+
+git submodule update --remote
+http://course-sonar.rd.tut.fi/

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shadow.png</file>
+        <file>wheel.png</file>
+        <file>kraken.png</file>
+        <file>munster.png</file>
+        <file>shark.png</file>
+        <file>vortex.png</file>
+    </qresource>
+</RCC>
